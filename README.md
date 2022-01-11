@@ -1,5 +1,5 @@
 # reactUseEffect
 
 To run the project:
-> npm i
-> npm start
+npm install
+npm start
